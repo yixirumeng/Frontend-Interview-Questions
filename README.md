@@ -17,3 +17,7 @@
 1、computed中，一个计算属性是否可以引用另一个计算属性
 
 ### <center>Java</center>
+
+#### 一、基础
+
+[1、Java线程池每个参数的作用](https://github.com/yixirumeng/blog/issues/4)
