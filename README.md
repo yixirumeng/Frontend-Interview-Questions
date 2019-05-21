@@ -2,19 +2,19 @@
 
 ### <center>前端</center>
 
-#### [一、Javascript](https://github.com/yixirumeng/blog/issues/1)
+#### 一、Javascript
 
-1、一行代码实现数据去重
+[1、一行代码实现数据去重](https://github.com/yixirumeng/blog/issues/1)
+[2、js基本类型和引用类型有哪些，分别保存在什么位置](https://github.com/yixirumeng/blog/issues/5)
+
+#### 二、React
+
+[1、组件开头import React, {Component} from 'react'，但下面只用了Component，那React的引入是否可以省略](https://github.com/yixirumeng/blog/issues/2)
 
 
-#### [二、React](https://github.com/yixirumeng/blog/issues/2)
+#### 三、Vue
 
-1、组件开头import React, {Component} from 'react'，但下面只用了Component，那React的引入是否可以省略
-
-
-#### [三、Vue](https://github.com/yixirumeng/blog/issues/3)
-
-1、computed中，一个计算属性是否可以引用另一个计算属性
+[1、computed中，一个计算属性是否可以引用另一个计算属性](https://github.com/yixirumeng/blog/issues/3)
 
 ### <center>Java</center>
 
