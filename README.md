@@ -11,11 +11,12 @@
 #### 二、React
 
 [1、组件开头import React, {Component} from 'react'，但下面只用了Component，那React的引入是否可以省略](https://github.com/yixirumeng/blog/issues/2)
-
+[2、react类组件中super(props)的作用是什么，可不可以不写](https://github.com/yixirumeng/blog/issues/6)
 
 #### 三、Vue
 
 [1、computed中，一个计算属性是否可以引用另一个计算属性](https://github.com/yixirumeng/blog/issues/3)
+[2、v-if 和 v-show 有什么区别](https://github.com/yixirumeng/blog/issues/7)
 
 ### <center>Java</center>
 
