@@ -1,4 +1,4 @@
-## <center>前端、Java常见面试题</center>
+## <center>前端面试题</center>
 
 ### <center>前端</center>
 
@@ -31,9 +31,3 @@
 [3、v-on可以绑定多个事件吗](https://github.com/yixirumeng/blog/issues/10)
 
 [4、Vue组件中data为什么必须是函数](https://github.com/yixirumeng/blog/issues/13)
-
-### <center>Java</center>
-
-#### 一、基础
-
-[1、Java线程池每个参数的作用](https://github.com/yixirumeng/blog/issues/4)
