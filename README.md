@@ -12,6 +12,8 @@
 
 [4、js事件委托](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/11)
 
+---
+
 #### 二、React
 
 [1、组件开头import React, {Component} from 'react'，但下面只用了Component，那React的引入是否可以省略](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/2)
@@ -21,6 +23,8 @@
 [3、为什么要将ajax放到componentDidMount中](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/9)
 
 [4、react受控组件与非受控组件](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/12)
+
+---
 
 #### 三、Vue
 
