@@ -12,6 +12,8 @@
 
 [4、js事件委托](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/11)
 
+[5、js闭包](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/14)
+
 ---
 
 #### 二、React
@@ -24,6 +26,8 @@
 
 [4、react受控组件与非受控组件](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/12)
 
+[5、为什么建议给setState传递的是函数而非对象，如何能立即获取到变更后的state，其原理又是什么](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/15)
+
 ---
 
 #### 三、Vue
@@ -35,3 +39,5 @@
 [3、v-on可以绑定多个事件吗](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/10)
 
 [4、Vue组件中data为什么必须是函数](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/13)
+
+[5、vue在事件中如何获取到event对象](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/16)
