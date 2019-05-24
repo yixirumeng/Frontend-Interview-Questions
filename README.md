@@ -30,6 +30,8 @@
 
 [6、react创建ref的方式？ref可以在函数式组件上使用吗？为什么？](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/17)
 
+[7、react新的context与旧的context在原理上有什么区别？](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/18)
+
 ---
 
 #### 三、Vue
