@@ -16,6 +16,8 @@
 
 [6、==与===的区别](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/19)
 
+[7、jsonp的原理](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/24)
+
 ---
 
 #### 二、React
