@@ -36,6 +36,8 @@
 
 [8、react中key的作用，为什么不建议使用索引作为key（Vue同理）](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/20)
 
+[9、react中事件为什么要绑定this，或者使用箭头函数](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/22)
+
 ---
 
 #### 三、Vue
