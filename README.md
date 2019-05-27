@@ -53,3 +53,5 @@
 [5、vue在事件中如何获取到event对象](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/16)
 
 [6、v-for与v-if的优先级](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/21)
+
+[7、vue中给data中的对象属性添加一个新的属性时会发生什么，如何解决？](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/23)
