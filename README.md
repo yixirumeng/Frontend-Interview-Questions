@@ -14,6 +14,8 @@
 
 [5、js闭包](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/14)
 
+[6、==与===的区别](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/19)
+
 ---
 
 #### 二、React
@@ -32,6 +34,8 @@
 
 [7、react新的context与旧的context在原理上有什么区别？](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/18)
 
+[8、react中key的作用，为什么不建议使用索引作为key（Vue同理）](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/20)
+
 ---
 
 #### 三、Vue
@@ -45,3 +49,5 @@
 [4、Vue组件中data为什么必须是函数](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/13)
 
 [5、vue在事件中如何获取到event对象](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/16)
+
+[6、v-for与v-if的优先级](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/21)
