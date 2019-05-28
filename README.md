@@ -18,6 +18,8 @@
 
 [7、jsonp的原理](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/24)
 
+[8、typeof的结果会返回哪些数据类型，其值又是什么](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/25)
+
 ---
 
 #### 二、React
@@ -40,6 +42,12 @@
 
 [9、react中事件为什么要绑定this，或者使用箭头函数](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/22)
 
+[10、react中如何阻止组件渲染](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/26)
+
+[11、组件的render方法返回null时，还会执行声明周期函数吗](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/27)
+
+[12、React16.4版本的生命周期函数有哪些，分别在什么时候执行](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/28)
+
 ---
 
 #### 三、Vue
@@ -56,4 +64,6 @@
 
 [6、v-for与v-if的优先级](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/21)
 
-[7、vue中给data中的对象属性添加一个新的属性时会发生什么，如何解决？](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/23)
+[7、vue中给data中的对象属性添加一个新的属性时会发生什么，如何解决](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/23)
+
+[8、$nextTick的作用，其接收哪些参数](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/29)
