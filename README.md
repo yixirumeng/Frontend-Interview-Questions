@@ -20,7 +20,7 @@
 
 [8、typeof的结果会返回哪些数据类型，其值又是什么](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/25)
 
-[9、typeof的结果会返回哪些数据类型，其值又是什么](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/30)
+[9、js变量提升与函数提升](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/30)
 
 ---
 
