@@ -20,6 +20,8 @@
 
 [8、typeof的结果会返回哪些数据类型，其值又是什么](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/25)
 
+[9、typeof的结果会返回哪些数据类型，其值又是什么](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/30)
+
 ---
 
 #### 二、React
@@ -48,6 +50,10 @@
 
 [12、React16.4版本的生命周期函数有哪些，分别在什么时候执行](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/28)
 
+[13、调用setState时，React内部做了什么](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/31)
+
+[14、shouldComponentUpdate主要是做什么用的](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/32)
+
 ---
 
 #### 三、Vue
@@ -67,3 +73,5 @@
 [7、vue中给data中的对象属性添加一个新的属性时会发生什么，如何解决](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/23)
 
 [8、$nextTick的作用，其接收哪些参数](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/29)
+
+[9、vue如何监听对象变化，以及监听对象中某个属性的变化](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/33)
