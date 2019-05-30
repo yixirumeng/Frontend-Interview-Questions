@@ -22,6 +22,8 @@
 
 [9、js变量提升与函数提升](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/30)
 
+[10、js事件流](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/34)
+
 ---
 
 #### 二、React
@@ -54,6 +56,8 @@
 
 [14、shouldComponentUpdate主要是做什么用的](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/32)
 
+[15、为什么组件名称首字母要大写?](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/36)
+
 ---
 
 #### 三、Vue
@@ -75,3 +79,5 @@
 [8、$nextTick的作用，其接收哪些参数](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/29)
 
 [9、vue如何监听对象变化，以及监听对象中某个属性的变化](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/33)
+
+[10、计算属性默认是get方法，如何设置set方法](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/35)
