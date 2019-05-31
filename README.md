@@ -24,6 +24,8 @@
 
 [10、js事件流](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/34)
 
+[11、js如何阻止事件冒泡](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/37)
+
 ---
 
 #### 二、React
@@ -58,6 +60,10 @@
 
 [15、为什么组件名称首字母要大写?](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/36)
 
+[16、元素或组件为什么要使用className而不是class属性?](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/38)
+
+[17、React如何正确更新state中的对象或数组](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/39)
+
 ---
 
 #### 三、Vue
@@ -81,3 +87,5 @@
 [9、vue如何监听对象变化，以及监听对象中某个属性的变化](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/33)
 
 [10、计算属性默认是get方法，如何设置set方法](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/35)
+
+[11、Vue中的数组与原生数组的区别](https://github.com/yixirumeng/Frontend-Interview-Questions/issues/40)
